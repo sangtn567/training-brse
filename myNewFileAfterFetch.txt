@@ -1,0 +1,1 @@
+File này dùng để thông báo rằng bạn đã fetch thành công rồi
